@@ -29,9 +29,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Sean Thielen
+- name: Bob Smith
   pic: 2
-  position: Vice President
+  position: Janitor
   social:
     - title: twitter
       url: #
@@ -40,9 +40,9 @@ people:
     - title: linkedin
       url: #
 
-- name: Avelina Kim
+- name: John Johnson
   pic: 3
-  position: Secretary
+  position: Unemployed
   social:
     - title: twitter
       url: #
