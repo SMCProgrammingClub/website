@@ -1,5 +1,5 @@
 url: https://smcprogramming.club
-baseurl: 
+baseurl:
 
 # Site settings
 title: SMC Programming Club
@@ -9,7 +9,7 @@ description: "A club for programmers at SMC to get together and work on awesome 
 # Color settings (hex-codes without the leading hash-tag)
 # color:
 #   primary: fed136
-#   secondary: fec503  
+#   secondary: fec503
 #   secondary-dark: 333
 color:
   primary: 3498db
@@ -22,52 +22,42 @@ people:
   pic: 1
   position: President
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
 
-- name: Bob Smith
-  pic: 2
-  position: Janitor
+- name: Sean Thielen
+  pic: placeholder
+  position: Vice President
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
 
-- name: John Johnson
+- name: Avelina Kim
   pic: 3
-  position: Unemployed
+  position: Secretary
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+
+- name: Kristian Romero
+  pic: placeholder
+  position: Treasurer
+  social:
+
+- name: Surinder Singh
+  pic: placeholder
+  position: Public Relations
+  social:
+
+- name: Marco Bekheit
+  pic: placeholder
+  position: Sergeant-at-Arms
+  social:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+    url: https://www.facebook.com/groups/smccsande/
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/smcprogrammingclub
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: NULL
 
 # Build settings
 markdown: kramdown
