@@ -19,7 +19,7 @@ color:
 # Team names, titles and social links
 people:
 - name: Ian Sikes
-  pic: 1
+  pic: ian
   position: President
   social:
 
@@ -29,12 +29,12 @@ people:
   social:
 
 - name: Avelina Kim
-  pic: 3
+  pic: avelina
   position: Secretary
   social:
 
 - name: Kristian Romero
-  pic: placeholder
+  pic: kristian
   position: Treasurer
   social:
 
@@ -44,7 +44,7 @@ people:
   social:
 
 - name: Marco Bekheit
-  pic: placeholder
+  pic: marco
   position: Sergeant-at-Arms
   social:
 
