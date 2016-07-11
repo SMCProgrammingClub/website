@@ -23,18 +23,18 @@ people:
   position: President
   social:
 
-- name: Sean Thielen
-  pic: sean
+- name: Avelina Kim
+  pic: avelina
   position: Vice President
   social:
 
-- name: Avelina Kim
-  pic: avelina
+- name: Molly Rodil
+  pic: placeholder
   position: Secretary
   social:
 
-- name: Kristian Romero
-  pic: kristian
+- name: Taha Zaidi
+  pic: placeholder
   position: Treasurer
   social:
 
@@ -43,9 +43,14 @@ people:
   position: Public Relations
   social:
 
-- name: Marcorios Bekheit
-  pic: marco
+- name: Luis Ramos
+  pic: placeholder
   position: Sergeant-at-Arms
+  social:
+
+- name: Hengda Shi
+  pic: placeholder
+  position: New Member Training
   social:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
