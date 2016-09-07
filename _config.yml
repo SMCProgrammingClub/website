@@ -28,14 +28,14 @@ people:
   position: Vice President
   social:
 
+- name: Taha Zaidi
+  pic: taha
+  position: Treasurer
+  social:
+
 - name: Molly Rodil
   pic: placeholder
   position: Secretary
-  social:
-
-- name: Taha Zaidi
-  pic: placeholder
-  position: Treasurer
   social:
 
 - name: Surinder Singh
@@ -48,10 +48,6 @@ people:
   position: Sergeant-at-Arms
   social:
 
-- name: Hengda Shi
-  pic: placeholder
-  position: New Member Training
-  social:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
