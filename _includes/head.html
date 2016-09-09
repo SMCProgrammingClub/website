@@ -4,6 +4,10 @@
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     <meta name="viewport" content="width=device-width">
     <meta name="description" content="{{ site.description }}">
+
+    <!-- OpenGraph Metadata -->
+    <meta property="og:image" content="https://cdn2.iconfinder.com/data/icons/luchesa-part-3/128/Programming-512.png" />
+
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
 
