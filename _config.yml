@@ -18,13 +18,13 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Ian Sikes
-  pic: ian
+- name: Avelina Kim
+  pic: avelina
   position: President
   social:
 
-- name: Avelina Kim
-  pic: avelina
+- name: Enrique Piqueras
+  pic: placeholder
   position: Vice President
   social:
 
@@ -33,34 +33,19 @@ people:
   position: Treasurer
   social:
 
-- name: Molly Rodil
-  pic: molly
+- name: Somtoya Arinze
+  pic: placeholder
   position: Secretary
   social:
 
-- name: Surinder Singh
-  pic: surinder
-  position: Public Relations
-  social:
-
-- name: Luis Ramos
-  pic: luis
-  position: Sergeant-at-Arms
-  social:
-
-- name: Melissa Avina-Beltran
-  pic: melissa
-  position: Diversity Outreach Coordinator
+- name: Crew Taylor
+  pic: placeholder
+  position: Community Outreach
   social:
 
 - name: Dunzhi Jialuo
   pic: dunzhi
-  position: Director of Fundraising
-  social:
-
-- name: Enrique Piqueras
-  pic: placeholder
-  position: Workshop Coordinator
+  position: Event Coordinator
   social:
 
 
