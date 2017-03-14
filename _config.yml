@@ -24,7 +24,7 @@ people:
   social:
 
 - name: Enrique Piqueras
-  pic: placeholder
+  pic: enrique
   position: Vice President
   social:
 
@@ -34,17 +34,17 @@ people:
   social:
 
 - name: Somtoya Arinze
-  pic: placeholder
+  pic: somtoya
   position: Secretary
   social:
 
 - name: Crew Taylor
-  pic: placeholder
+  pic: crew
   position: Community Outreach
   social:
 
-- name: Dunzhi Jialuo
-  pic: dunzhi
+- name: Luis Chavez
+  pic: placeholder
   position: Event Coordinator
   social:
 
