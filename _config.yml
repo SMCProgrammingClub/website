@@ -18,35 +18,35 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Avelina Kim
-  pic: avelina
+- name: Luis Chavez
+  pic: luis
   position: President
   social:
 
-- name: Enrique Piqueras
-  pic: enrique
+- name: Justin Goldberg
+  pic: placeholder
   position: Vice President
   social:
 
-- name: Taha Zaidi
-  pic: taha
+- name: Carlos Vega
+  pic: placeholder
   position: Treasurer
   social:
 
-- name: Somtoya Arinze
-  pic: somtoya
+- name: Kaomi Booker
+  pic: placeholder
   position: Secretary
   social:
 
-- name: Crew Taylor
-  pic: crew
+- name: Jesus Ramos
+  pic: placeholder
   position: Community Outreach
   social:
 
-- name: Luis Chav
-  pic: luis
-  position: Event Coordinator
-  social:
+#- name: Luis Chavez
+#  pic: luis
+#  position: Event Coordinator
+#  social:
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
